@@ -10311,11 +10311,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\niamo\\Source\\Repos\\WhipApp\\WhipApp.csproj",
+      "projectUniqueName": "E:\\VSRepos\\GitHubSite\\WhipApp\\WhipApp\\WhipApp.csproj",
       "projectName": "WhipApp",
-      "projectPath": "C:\\Users\\niamo\\Source\\Repos\\WhipApp\\WhipApp.csproj",
+      "projectPath": "E:\\VSRepos\\GitHubSite\\WhipApp\\WhipApp\\WhipApp.csproj",
       "packagesPath": "C:\\Users\\niamo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\niamo\\Source\\Repos\\WhipApp\\obj\\publish\\win-x86\\",
+      "outputPath": "E:\\VSRepos\\GitHubSite\\WhipApp\\WhipApp\\obj\\publish\\win-x86\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\niamo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RxFI+hiDlzJJgC2j0ui2PYPgsIPeKyFJc1aZbTvbeUkoYDseaTtDJ9ClP5eMmbtIv4V2WIFM+iqQqbDUAw370w==",
+  "dgSpecHash": "5i88aLUeiwSZnC70GOjBGswUoJIcULJq0FhLU2OMmD0BfkuHsIOiQEiYeCO5rVNqVT/6qirvjc5DblwPoLK6aA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\niamo\\Source\\Repos\\WhipApp\\WhipApp.csproj",
+  "projectFilePath": "E:\\VSRepos\\GitHubSite\\WhipApp\\WhipApp\\WhipApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\niamo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\niamo\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

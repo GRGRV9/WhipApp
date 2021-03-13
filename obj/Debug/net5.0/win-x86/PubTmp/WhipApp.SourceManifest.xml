@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
-  <IisApp path="C:\Users\niamo\Source\Repos\WhipApp\obj\Debug\net5.0\win-x86\PubTmp\Out\" />
-  <dbfullsql path="C:\Users\niamo\Source\Repos\WhipApp\obj\Debug\net5.0\win-x86\PubTmp\EFSQLScripts\WhipApp.Data.MvcTasksContext.sql" />
+  <IisApp path="E:\VSRepos\GitHubSite\WhipApp\WhipApp\obj\Debug\net5.0\win-x86\PubTmp\Out\" />
+  <dbfullsql path="E:\VSRepos\GitHubSite\WhipApp\WhipApp\obj\Debug\net5.0\win-x86\PubTmp\EFSQLScripts\WhipApp.Data.MvcTasksContext.sql" />
 </sitemanifest>
