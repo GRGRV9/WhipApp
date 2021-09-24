@@ -7542,26 +7542,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\niamo\\.nuget\\packages\\": {}
+    "/Users/igrigorev/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VSRepos\\GitHubSite\\WhipApp\\WhipApp\\WhipApp.csproj",
+      "projectUniqueName": "/Users/igrigorev/Documents/WhipApp/WhipApp.csproj",
       "projectName": "WhipApp",
-      "projectPath": "E:\\VSRepos\\GitHubSite\\WhipApp\\WhipApp\\WhipApp.csproj",
-      "packagesPath": "C:\\Users\\niamo\\.nuget\\packages\\",
-      "outputPath": "E:\\VSRepos\\GitHubSite\\WhipApp\\WhipApp\\obj\\",
+      "projectPath": "/Users/igrigorev/Documents/WhipApp/WhipApp.csproj",
+      "packagesPath": "/Users/igrigorev/.nuget/packages/",
+      "outputPath": "/Users/igrigorev/Documents/WhipApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\niamo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/igrigorev/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7621,7 +7619,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
